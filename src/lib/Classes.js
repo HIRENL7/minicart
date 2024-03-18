@@ -1,0 +1,13 @@
+export const centerDiv = "flex items-center justify-between"
+export const roundClass = "sm:w-96 w-[16rem] rounded-full bg-white shadow-inner shadow-2xl shadow-blue-200";
+export const productMainClass = "flex items-center lg:flex-row md:flex-row  sm:justify-between sm:mx-5 justify-center mt-20  sm:flex-col-reverse xs:flex-col-reverse";
+export const productSpanClass = "font-bold sm:text-2xl text-xs uppercase tracking-[0.5rem]";
+export const inputClass = "text-sm outline-none my-5 h-10 w-[10rem] md:w-[20rem] border border-grey-300 rounded-xl p-3 shadow shadow-inner shadow-neutral-300";
+export const applyButtonClass = "bg-sidebar rounded-full h-10 w-24 p-2 text-white";
+export const checkoutButtonClass = " p-2 text-white bg-sidebar mt-3 rounded-lg bg-[rgba(0,151,204)]";
+export const cartMain = "mt-10 px-8 flex flex-col lg:flex-row items-center";
+export const mainHrClass = "lg:h-[32rem] lg:w-[0.08rem] bg-gray-500 lg:mx-12 w-full h-[0.1rem] my-5";
+export const fullname = "bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+export const username ="bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+export const password ="bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+export const  registerBtn="w-full text-white bg-blue-600 hover:bg-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
